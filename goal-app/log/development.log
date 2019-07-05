@@ -1,0 +1,16 @@
+  [1m[35m (1.3ms)[0m  [1m[35mDROP DATABASE IF EXISTS "goal-app_development"[0m
+  ↳ bin/rails:9
+  [1m[35m (0.2ms)[0m  [1m[35mDROP DATABASE IF EXISTS "goal-app_test"[0m
+  ↳ bin/rails:9
+  [1m[35m (605.9ms)[0m  [1m[35mCREATE DATABASE "goal-app_development" ENCODING = 'unicode'[0m
+  ↳ bin/rails:9
+  [1m[35m (262.8ms)[0m  [1m[35mCREATE DATABASE "goal-app_test" ENCODING = 'unicode'[0m
+  ↳ bin/rails:9
+  [1m[35m (166.5ms)[0m  [1m[35mDROP DATABASE IF EXISTS "goal-app_development"[0m
+  ↳ bin/rails:9
+  [1m[35m (152.2ms)[0m  [1m[35mDROP DATABASE IF EXISTS "goal-app_test"[0m
+  ↳ bin/rails:9
+  [1m[35m (756.2ms)[0m  [1m[35mCREATE DATABASE "goal-app_development" ENCODING = 'unicode'[0m
+  ↳ bin/rails:9
+  [1m[35m (275.0ms)[0m  [1m[35mCREATE DATABASE "goal-app_test" ENCODING = 'unicode'[0m
+  ↳ bin/rails:9
